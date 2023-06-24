@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.4846fe24.js",
-    "index.html": "/index.html",
-    "main.4846fe24.js.map": "/static/js/main.4846fe24.js.map"
+    "main.js": "/HRnet_react/static/js/main.2fa1f06f.js",
+    "index.html": "/HRnet_react/index.html",
+    "main.2fa1f06f.js.map": "/HRnet_react/static/js/main.2fa1f06f.js.map"
   },
   "entrypoints": [
-    "static/js/main.4846fe24.js"
+    "static/js/main.2fa1f06f.js"
   ]
 }
